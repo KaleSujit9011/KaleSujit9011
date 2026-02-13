@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sujit Kale</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">Hi , I'm Sujit Kale</h1>
+<h3 align="center">A passionate Engineer from India</h3>
 
-- 🔭 I’m currently working on **Expense Management System**
+- 🔭 I’m currently working on **Blogify**
 
-- 🌱 I’m currently learning **Pandas, Numpy ,RestApi , Streamlit , FastAPI ,etc**
+- 🌱 I’m currently learning **Frontend, RestApi , FastAPI ,etc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaleSujit9011/KaleSujit9011](https://github.com/KaleSujit9011/KaleSujit9011)
+- 👨‍💻 All of my projects are available at [Sujit_Kale](https://github.com/KaleSujit9011/KaleSujit9011)
 
 - 📫 How to reach me **Kalesujit9011@gamil.com**
 
