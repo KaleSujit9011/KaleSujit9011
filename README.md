@@ -21,9 +21,9 @@ I’m **Sujit Kale**, a passionate software engineer specializing in **backend e
 
 -  **Backend‑first mindset** — Python, FastAPI, Flask, RESTful APIs  
 -  **Frontend skills** — React, TailwindCSS, modern JavaScript  
--  **Databases** — MySQL, MongoDB  
+-  **Databases** — MySQL, PostgreSQL, MongoDB  
 -  **Engineering practices** — modular design, testing, CI/CD, containerized deployment  
-- 🔹 **Tools I use daily** — VS Code, PyCharm, Git, Docker, Gradle  
+- 🔹 **Tools I use daily** — VS Code, PyCharm, Postman, TablePlus, Git, Docker, Gradle  
 
 I enjoy translating complex problems into elegant solutions and sharing knowledge through technical writing and open‑source contributions.
 
@@ -57,7 +57,11 @@ I enjoy translating complex problems into elegant solutions and sharing knowledg
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+  <!-- Build Tools -->
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 
   <!-- IDEs -->
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -67,6 +71,8 @@ I enjoy translating complex problems into elegant solutions and sharing knowledg
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TablePlus-24292E?style=for-the-badge&logo=tableplus&logoColor=white"/>
 
 </div>
 
